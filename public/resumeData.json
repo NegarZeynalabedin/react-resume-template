@@ -1,45 +1,34 @@
 {
   "main": {
-    "name": "Tim Baker",
+    "name": "Negar Zeynalabedin",
     "occupation": "(Your Occupation Here)",
     "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image": "profilepic.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "email": "n.zeyn10@gmail.com",
     "phone": "555-555-5555",
-    "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
-    },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "twitter",
-        "url": "http://twitter.com",
+        "url": "https://twitter.com/N_Zeyn10",
         "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/negarzeynalabedin/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "https://www.instagram.com/negarzeynalabedin_10/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/NegarZeynalabedin",
         "className": "fa fa-github"
       }
     ]
@@ -48,16 +37,37 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
+        "school": "Iran University of Science and Technology",
+        "degree": "B.Sc. in Computer Engineering",
+        "graduated": "2018-2022",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "TeachingExperience":[
+      {
+        "name":"Computational Intelligence TA",
+        "url":"http://webpages.iust.ac.ir/mozayani/",
+        "notes":["Instructor: Dr. Nasser Mozayani","Feb 2022 - Jul 2022"]
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "name":" Security of Computer Systems TA",
+        "url":"https://adiyanat.com/",
+        "notes":["Instructor: Dr. Abolfazl Diyanat","Feb 2022 - Jul 2022"]
+      },
+      {
+        "name":"Algorithm Design and Analysis TA",
+        "url":"http://www.sauleh.ir/ad99/",
+        "notes":["Instructor: Dr. Sauleh Eetemadi","Feb 2021 - Sep 2021"]
+      },
+      {
+        "name":"Data Structures TA",
+        "url":"http://www.sauleh.ir/ds99/",
+        "notes":["Instructor: Dr. Sauleh Eetemadi","Feb 2020 - Jul 2020"]
+      },
+      {
+        "name":"Advanced Programming TA",
+        "url":"http://www.sauleh.ir/ap98/",
+        "notes":["Dr. Sauleh Eetemadi","Feb 2020 - Jul 2020"]
       }
     ],
     "work": [
